@@ -1,0 +1,10 @@
+ <root main_tree_to_execute = "MainTree" >
+     <BehaviorTree ID="MainTree">
+        <Sequence name="root_sequence">
+            <check_battery   name="The battery has been checked"/>
+            <open_gripper    name="The gripper is open"/>
+            <approach_object name="Approaching towards the object"/>
+            <close_gripper   name="The gripper is closed"/>
+        </Sequence>
+     </BehaviorTree>
+ </root>

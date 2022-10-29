@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibraries.a CMakeFiles/libraries.dir/src/approach_object.cpp.o CMakeFiles/libraries.dir/src/gripper_interface.cpp.o CMakeFiles/libraries.dir/src/system_status.cpp.o
+/usr/bin/ranlib liblibraries.a
