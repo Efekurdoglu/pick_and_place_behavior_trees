@@ -1,4 +1,0 @@
-/home/harfleurlex/bt_ws/pick_and_place/build/CMakeFiles/libraries.dir
-/home/harfleurlex/bt_ws/pick_and_place/build/CMakeFiles/main.dir
-/home/harfleurlex/bt_ws/pick_and_place/build/CMakeFiles/edit_cache.dir
-/home/harfleurlex/bt_ws/pick_and_place/build/CMakeFiles/rebuild_cache.dir

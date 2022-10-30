@@ -1,11 +1,14 @@
 # pick_and_place_behavior_trees
-## Execution:
-in the terminal
-1) $ git clone https://github.com/Efekurdoglu/pick_and_place_behavior_trees.git
-2) $ cd pick_and_place_behavior_trees
-3) $ git clone https://github.com/BehaviorTree/BehaviorTree.CPP.git
-4) $ cd pick_and_place/build
-5) $ rm -r *
-6) $ cmake ..
-7) $ make
-8) $ ./main
+Pick and place example with BehavioeTree.CPP
+
+## How to run:
+
+```bash
+$ git clone --submodule-recursive https://github.com/Efekurdoglu/pick_and_place_behavior_trees.git
+$ cd pick_and_place_behavior_trees
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+$ ./main
+```
