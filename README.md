@@ -1,5 +1,5 @@
 # pick_and_place_behavior_trees
-Pick and place example with BehavioeTree.CPP
+Pick and place example with BehaviorTree.CPP
 
 ## Dependencies
 ```bash
